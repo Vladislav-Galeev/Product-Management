@@ -3,10 +3,15 @@ API позволяет пользователям добавлять, обнов
 
 # Настройка базы данных PostgreSQL
 Поменяйте данные переменные для настройки базы данных: 
+
 DB_HOST=localhost
+
 DB_PORT=5432
+
 DB_NAME=postgres
+
 DB_USER=postgres
+
 DB_PASS=postgres
 
 # Запуск
